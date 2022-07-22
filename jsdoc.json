@@ -1,0 +1,12 @@
+{
+  "plugins": [],
+  "source": {
+      "include": ["./src"],
+      "includePattern": ".+\\.js(doc|x)?$",
+      "exclude": "node_modules/|docs"
+  },
+  "opts": {
+      "destination": "./documentacion",
+      "recurse": true
+  }
+}

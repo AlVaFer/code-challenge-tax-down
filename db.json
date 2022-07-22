@@ -1,0 +1,40 @@
+{
+  "taxes": [
+    {
+      "id": "1",
+      "name": "Tax Season 2021",
+      "year": "2021"
+    },
+    {
+      "id": "2",
+      "name": "Tax Season 2020",
+      "year": "2020"
+    }
+  ],
+  "inputfields": [
+    {
+      "id": "name",
+      "label": "Name",
+      "placeholder": "Your first name",
+      "type": "text",
+      "maxLength": 20
+    },
+    {
+      "id": "surname",
+      "label": "Surname",
+      "placeholder": "Your last name",
+      "type": "text",
+      "maxLength": 40
+    },
+    {
+      "id": "age",
+      "label": "Age",
+      "placeholder": "Your age",
+      "type": "number"
+    }
+  ],
+  "user": {
+    "email": "taxdown",
+    "password": "taxdown"
+  }
+}
