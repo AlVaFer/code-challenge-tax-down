@@ -55,7 +55,7 @@ describe("<SignIn/>", () => {
     );
   };
 
-  test("Exist labels", async () => {
+  test("Detect labels", async () => {
     setup();
     for await (const label of labels) {
       const emailLabel = await screen.findAllByLabelText(label);
@@ -63,7 +63,7 @@ describe("<SignIn/>", () => {
     }
   });
 
-  test("Add Taxes", async () => {
+  test("Add taxes", async () => {
     setup();
     expect(reducer(undefined, taxesBase(taxes))).toEqual(reduxState);
   });
