@@ -1,12 +1,12 @@
 ### TaxDown Code Challenge - Álvaro Vallejos
 
-## Init project
+## Run project
 
 npm i
 
 npm run dev
 
-## Build 
+## Build
 
 npm run build
 
