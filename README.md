@@ -6,7 +6,7 @@ npm i
 
 npm run dev
 
-## Build 
+## Webpack build
 
 npm run build
 
