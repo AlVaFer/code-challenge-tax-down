@@ -1,5 +1,4 @@
-###  Code Challenge - Álvaro Vallejos
-
+###  Code Challenge - AV
 FrontEnd Senior Engineer
 
 ## Run project
