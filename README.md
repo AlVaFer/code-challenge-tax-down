@@ -1,4 +1,4 @@
-### TaxDown Code Challenge - Álvaro Vallejos
+###  Code Challenge - Álvaro Vallejos
 
 FrontEnd Senior Engineer
 
